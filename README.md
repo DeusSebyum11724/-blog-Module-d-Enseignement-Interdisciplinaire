@@ -1,7 +1,7 @@
 # Module-d-Enseignement-Interdisciplinaire
 
-<h1><b> Le thème: L’avenir de L’humanité - une vision scientifique risquée? </b></h1>/p/
- <h1><b>La problématique: Comment les prouesses des scientifiques modélisent notre avenir? </b></h1>/p/
+<pre><h3><b> Le thème: L’avenir de L’humanité - une vision scientifique risquée?
+La problématique: Comment les prouesses des scientifiques modélisent notre avenir? </b></h3></pre>
 
 L’année scolaire 2021-2022 a été longue, difficile, mais étonnante et productive pour la promotion des 11ème E sciences. Sous la direction de nos merveilleux professeurs, Mme Patrichi, Mme Taflan, Mme Visan et Mme Vlad, 32 étudiants ont travaillé ensemble avec passion et dévouement pour répondre à cette question courte, mais complexe, « Comment les prouesses des scientifiques modélisent notre avenir? » Chacun a fait un effort, et même avec quelques hauts et des bas, on a réussi à construire un incroyable mélange de science, de français et de créativité. Ce n'était pas facile, et parfois le stress devenait excessif, mais nous avions l'appui de l'autre et l'objectif combiné de terminer et de parfaire cette responsabilité.
 
